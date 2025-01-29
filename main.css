@@ -1,8 +1,9 @@
-.body {
+.typoTitreExo {
     font-family: "Exo 2", serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
     margin: 0%;
+    background-color: blue;
   }
 
