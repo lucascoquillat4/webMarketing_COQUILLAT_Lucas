@@ -3,10 +3,11 @@ body {
 }
 
 .header  {
+    background-color: #005CC5;
     display: flex;
     flex-direction: column;
     margin: 0px;
-    background-color: #005CC5;
+    
 }
 
 .logo {
@@ -15,17 +16,19 @@ body {
     padding-left: 3.125rem;
 }
 
+img {
+    width: 25rem;
+}
+
 aside {
     position: absolute; 
     top: 0px; 
     right: 0px;
 }
 
-img {
-    width: 25rem;
-}
-
-h3 {
+/*Reach beyond the stars*/
+p {
+    color: #ffff;
     font-family: "Exo 2", serif;
     font-optical-sizing: auto;
     font-weight: 100;
