@@ -11,6 +11,8 @@ body {
 
 /*---h div Start---*/
 h1 {
+    color: #ffff;
+    font-size: 7.5rem;
     margin: 0px;
     margin-left: 1.25rem;
     display: flex;
@@ -21,6 +23,8 @@ h1 {
 }
 
 h2 {
+    color: #ffff;
+    font-size: 5rem;
     margin: 0px;
     margin-left: 1.25rem;
     display: flex;
@@ -31,9 +35,9 @@ h2 {
 }
 
 h4 {
+    color: #ffff;
     margin: 0px;
     margin-left: 1.25rem;
-    display: flex;
     font-family: "Exo 2", serif;
     font-optical-sizing: auto;
     font-weight: 700;
