@@ -10,13 +10,17 @@ body {
 }
 
 .logo {
-    width: 500px;
-    padding-top: 50px;
-    padding-left: 50px;
+    width: 31.25rem;
+    padding-top: 3.125rem;
+    padding-left: 3.125rem;
 }
 
 aside {
     position: absolute; 
     top: 0px; 
     right: 0px;
+}
+
+img {
+    width: 25rem;
 }
