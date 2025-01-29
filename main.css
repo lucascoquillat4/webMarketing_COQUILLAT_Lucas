@@ -4,15 +4,39 @@ body {
 
 .header  {
     display: flex;
+    flex-direction: column;
     margin: 0px;
     background-color: #005CC5;
 }
 
-h1 h2 h4 {
+/*---h div Start---*/
+h1 {
     margin: 0px;
+    margin-left: 1.25rem;
     display: flex;
     font-family: "Exo 2", serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
 }
+
+h2 {
+    margin: 0px;
+    margin-left: 1.25rem;
+    display: flex;
+    font-family: "Exo 2", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h4 {
+    margin: 0px;
+    margin-left: 1.25rem;
+    display: flex;
+    font-family: "Exo 2", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+/*---h div End---*/
