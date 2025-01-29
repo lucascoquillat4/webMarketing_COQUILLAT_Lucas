@@ -24,3 +24,10 @@ aside {
 img {
     width: 25rem;
 }
+
+h3 {
+    font-family: "Exo 2", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
